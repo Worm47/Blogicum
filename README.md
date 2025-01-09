@@ -22,6 +22,6 @@ Bash: `source venv/Scripts/activate`, PowerShell: `venv/Scripts/activate`
 - Проект доступен локально по адресу `127.0.0.1:8000`
 - Админ-панель доступна по адресу `127.0.0.1:8000/admin`
 
-## Автор: Кобелев Влдаислав
+## Автор: Кобелев Владислав
 GitHub: [worm47](https://github.com/Worm47)    
 Gmail: worm0047@gmail.com
