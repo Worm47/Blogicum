@@ -10,7 +10,7 @@
 
 
 ## Запуск проекта локально
-1. Клонируйте репозиторий
+1. Клонируйте репозиторий или скачайте ахрив с GitHub
 2. Создайте и активируйте виртуальное окружение `python -m venv venv`    
 Bash: `source venv/Scripts/activate`, PowerShell: `venv/Scripts/activate`
 3. Загрузите библиотеки `pip install -r requirements.txt`
